@@ -5,4 +5,5 @@ This study aims to develop a specialized evaluation scale for assessing human-ro
 
 
 If you wish to use our scale, we recommend citing the following paper:
+
 1.Tong, Y., Zhang, Q., & Ji, Z. (2024). Evaluating human-robot interaction user experiences in manufacturing: An initial assessment framework.
